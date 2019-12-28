@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2019/12/28/logo.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
+  background_image: "/uploads/2018/06/21/forestry-symbol.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Left

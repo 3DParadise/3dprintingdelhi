@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: 3D Printing Services
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#work"
+    link_text: Our Work
+  - link: "#testimonials"
+    link_text: Testimonials
+  - link: "#contact"
+    link_text: Contact us
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download

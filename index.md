@@ -16,8 +16,8 @@ page_sections:
   - link: "#contact"
     link_text: Contact us
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://paradise-3d.com
+    button_text: Visit 3D Paradise
 - template: hero-banner-w-image
   block: hero-2
   headline: xild <br><strong>design blocks</strong>

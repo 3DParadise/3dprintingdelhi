@@ -25,8 +25,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://paradise-3d.com/
+    button_text: See on 3D PARADISE
   image:
     image: "/uploads/willspumps.jpg"
     alt_text: Product Shot

@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/willspumps.jpg"
     alt_text: Product Shot
-  background_image: "/uploads/willspumps.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left

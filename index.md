@@ -39,7 +39,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/features-1.png"
+    image: "/uploads/features.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1

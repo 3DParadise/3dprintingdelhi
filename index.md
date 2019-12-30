@@ -21,8 +21,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Solidifying your concepts. <br><strong>High quality parts, DELIVERED.</strong>
-  content: The startup that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: We aspire to a hundred per cent customer satisfaction, from machines themselves
+    to the technology, the supplemental materials and the customer service.
   cta:
     enabled: true
     url: https://paradise-3d.com/

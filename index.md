@@ -28,7 +28,7 @@ page_sections:
     url: https://paradise-3d.com/
     button_text: See on 3D PARADISE
   image:
-    image: "/uploads/willspumps.jpg"
+    image: "/uploads/willspumps-1.jpg"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature

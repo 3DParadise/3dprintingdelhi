@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2019/12/28/transparent blurry background image.JPG"
     alt_text: Product Shot
-  background_image: "/uploads/2019/12/28/transparent blurry background image.JPG"
+  background_image: "/uploads/willspumps.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left

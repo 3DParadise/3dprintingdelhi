@@ -20,8 +20,8 @@ page_sections:
     button_text: Visit 3D Paradise
 - template: hero-banner-w-image
   block: hero-2
-  headline: xild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
+  headline: Solidifying your concepts. <br><strong>High quality parts, DELIVERED.</strong>
+  content: The startup that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
     enabled: true

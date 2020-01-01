@@ -34,9 +34,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>60+ 3D Printable materials<span class="light"> </span></strong><span
-    class="light">in combination with different technologies gives you maximum freedom
-    of design.<br>Check our material range here:<br></span><a href="https://paradise-3d.com/materials.php"
+  headline: <strong>60+ 3D Printable materials.</strong><span class="light"><br>Check
+    our material range here:<br></span><a href="https://paradise-3d.com/materials.php"
     title="60+ and counting"><span class="light">3D Paradise Materials</span></a><span
     class="light"><br>To know more:<br></span><a href="https://paradise-3d.com" title="Contact
     US"><span class="light">Visit 3D Paradise</span></a>

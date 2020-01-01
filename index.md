@@ -59,7 +59,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/theme.png"
+  image: "/uploads/theme.jpg"
   caption: All Available Blocks
 - template: detail-content
   block: text-1

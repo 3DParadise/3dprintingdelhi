@@ -46,7 +46,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>No MOQ.</strong>"
-  content: We manufacture from highly customised one part to large scale production.
+  content: We manufacture from highly customised one part to large scale production.<br><a
+    href="paradise-3d.com/contact_us.php" title="3D Paradise"><strong>Visit 3D Paradise</strong></a>
   media:
     image: "/uploads/features.png"
     alt_text: Customize Blocks

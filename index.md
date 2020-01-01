@@ -75,10 +75,12 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2019/12/28/logo1.png"
-  col_2: CONTACT US:<br>+91 8861925181<br>+91 8800161994<br>hello@paradise-3d.com<br><a
-    href="https://paradise-3d.com" title="3D Paradise">https://paradise-3d.com</a>
-  col_3: ''
-  col_4: ''
+  col_2: <strong>CONTACT US:<br>+91 8861925181<br>+91 8800161994<br><br></strong><a
+    href="https://paradise-3d.com" title="3D Paradise"><strong>https://paradise-3d.com</strong></a>
+  col_3: "<strong>Email us:<br>hello@paradise-3d.com</strong>  "
+  col_4: <strong>Visit us:<br></strong><a href="https://paradise-3d.com" title="https://paradise-3d.com"><strong>https://paradise-3d.com</strong></a>  <br><span
+    class="LrzXr">G-17, near MCD Toll, Surajkund Road, <br>Pul Pehlad Pur, New Delhi,
+    </span>110044
 
 ---
 foo bar

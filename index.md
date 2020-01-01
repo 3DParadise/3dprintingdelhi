@@ -53,10 +53,10 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: Discover. Design. Develop.
+  content: 'We help our clients bring their concepts or design to reality.<br>Having
+    built a strong network of our strategic partners across the globe, We are one
+    of the largest 3D Printers exporters in India. '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/theme.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: 3D Printing Services
+title: '3D Printing Services in Delhi | 3D Paradise '
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button

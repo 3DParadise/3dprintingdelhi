@@ -75,9 +75,10 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2019/12/28/logo1.png"
-  col_2: htftytctyc<br>htfytffyugujyjb<br>kugiug<br>iyfjfyjf<br><br>
-  col_3: jhymfyfgfyug<br>uygfufyf
-  col_4: uyfuyfyyuffyfyfyfyu
+  col_2: CONTACT US:<br>+91 8861925181<br>+91 8800161994<br>hello@paradise-3d.com<br><a
+    href="https://paradise-3d.com" title="3D Paradise">https://paradise-3d.com</a>
+  col_3: ''
+  col_4: ''
 
 ---
 foo bar

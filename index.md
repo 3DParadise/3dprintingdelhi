@@ -34,13 +34,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>60+ 3D Printable materials.</strong><span class="light"><br>Check
-    our material range here:<br></span><a href="https://paradise-3d.com/materials.php"
+  headline: <strong>60+ 3D Printable materials.</strong><span class="light"><br></span>
+  content: '<span class="light">Check our material range here:<br></span><a href="https://paradise-3d.com/materials.php"
     title="60+ and counting"><span class="light">3D Paradise Materials</span></a><span
     class="light"><br>To know more:<br></span><a href="https://paradise-3d.com" title="Contact
-    US"><span class="light">Visit 3D Paradise</span></a>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+    US"><span class="light">Visit 3D Paradise</span></a>  '
   media:
     image: "/uploads/features.jpg"
     alt_text: uBuild Blocks Mock-Up

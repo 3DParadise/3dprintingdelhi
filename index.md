@@ -45,10 +45,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>No MOQ.</strong>"
+  content: We manufacture from highly customised one part to large scale production.
   media:
     image: "/uploads/features.png"
     alt_text: Customize Blocks

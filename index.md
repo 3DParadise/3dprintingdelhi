@@ -60,7 +60,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/theme.jpg"
-  caption: All Available Blocks
+  caption: Who we serve
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

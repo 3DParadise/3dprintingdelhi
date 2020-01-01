@@ -77,7 +77,7 @@ page_sections:
   content: Hello world! ❤︎
 - template: 4-column-footer
   block: footer-2
-  image: ''
+  image: "/uploads/2019/12/28/logo1.png"
   col_2: ''
   col_3: ''
   col_4: ''

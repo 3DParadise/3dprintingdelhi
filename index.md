@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#content-feature"
+  - link: "#feature-1"
     link_text: Our Work
   - link: "#testimonials"
     link_text: Testimonials

@@ -31,7 +31,6 @@ page_sections:
     image: "/uploads/willspumps-1.jpg"
     alt_text: Product Shot
   background_image: ''
-  <div id="about">  
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -52,7 +51,6 @@ page_sections:
   media:
     image: "/uploads/features.png"
     alt_text: Customize Blocks
-  </div>
 - template: 1-column-text
   block: one-column-1
   headline: Discover. Design. Develop.

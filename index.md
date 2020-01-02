@@ -42,6 +42,7 @@ page_sections:
   media:
     image: "/uploads/features.jpg"
     alt_text: uBuild Blocks Mock-Up
+{: #about}
 - template: content-feature
   block: feature-1
   media_alignment: Right

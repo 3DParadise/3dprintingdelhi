@@ -14,3 +14,4 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+- jekyll-seo-tag

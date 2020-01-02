@@ -9,9 +9,9 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#feature-1"
+  - link: "#features"
     link_text: Our Work
-  - link: "#about"
+  - link: "#features"
     link_text: Testimonials
   - link: "#contact"
     link_text: Contact us

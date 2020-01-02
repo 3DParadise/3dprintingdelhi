@@ -70,6 +70,10 @@ page_sections:
   col_4: <strong>Visit us:<br></strong><a href="https://paradise-3d.com" title="https://paradise-3d.com"><strong>https://paradise-3d.com</strong></a>  <br><span
     class="LrzXr">G-17, near MCD Toll, Surajkund Road, <br>Pul Pehlad Pur, New Delhi,
     </span>110044
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 
 ---
 foo bar

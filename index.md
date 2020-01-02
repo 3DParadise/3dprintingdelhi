@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: "#feature-1"
     link_text: Our Work
-  - link: "#testimonials"
+  - link: "#about"
     link_text: Testimonials
   - link: "#contact"
     link_text: Contact us

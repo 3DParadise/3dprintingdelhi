@@ -72,8 +72,8 @@ page_sections:
     </span>110044
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: "<strong>Send us your designs.</strong>"
+  email_recipient: hello@paradise-3d.com
 
 ---
 foo bar

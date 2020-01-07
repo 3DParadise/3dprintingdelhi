@@ -77,25 +77,25 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Prototype - Functional Parts - Production
-  content: "<p>for design validation, sales pitches, exhibition presentation, investor/client
-    communication we manufacture 3dp parts taking the surface finish as our top priority,
-    other parameters like accuracy, drop proof strength are always maintained in any
-    process.</p><p>functional parts are parts that are used not for only representation
-    purposes but also for final products.</p><p>things we consider when we manufacture
-    for functional use:</p><p>1. chemical resistant.</p><p>2. operating temperature.</p><p>3.
-    optimum surface finish to minimize friction.</p><p>4. </p><p>from all of the above
-    parameters some maybe applicable to our client's requirement.</p><p>for instance;
-    xyz company manufactures electronic enclosures</p><p>the company has a number
-    of different sizes of pcb and thus different designs for each of them.</p><p>We
+  content: "<p>For design validation, sales pitches, exhibition presentation, investor/client
+    communication; We manufacture 3D Printed parts taking the surface finish as our
+    top priority, other parameters like: accuracy and drop-proof strength are always
+    maintained in any process.</p><p>Functional parts are parts that are used not
+    for only representation purposes but also as final products.</p><p> Things we
+    consider when we manufacture for functional use:</p><p>1. Chemical resistant.</p><p>2.
+    Operating temperature.</p><p>3. Optimum surface-finish, minimizing friction.</p><p></p><p>From
+    all of the above parameters, some may apply to our client's requirement.</p><p>for
+    instance; XYZ company manufactures electronic enclosures;</p><p>The company has
+    several different sizes of PCB and thus different designs for each of them.</p><p>We
     take care of that part by providing our experienced designers to brainstorm the
-    perfect design for each of them.</p><p>operating conditions for xyz is 90°C heat
-    resistant and smooth surface finish as they want to sell this as their product.</p><p>after
-    design is approved we make one prototype of each design, after prototype of the
-    company is approved we will go aheaf with batch manufacturing that can vary from
-    1-1000 parts per batch as per the company demands.</p><p>Our on demand manufacturing
-    process is smooth for any client.</p><p>we use different technologies like 3Dp,
-    vacuum casting, soft tooling injection moulding etc</p><p>our technology changes
-    as per the quantity of parts demanded by the client</p>"
+    perfect design for each of them.</p><p>Operating conditions for XYZ is 90°C heat
+    resistant and smooth surface finish as they want to sell this as their product.</p><p>After
+    the design is approved we make one prototype of each design, after the prototype
+    of the company is approved we will go ahead with batch manufacturing that can
+    vary from 1-1000 parts per batch as per the company demands.</p><p>Our on-demand
+    manufacturing process is smooth for any client.</p><p>We use different technologies
+    like 3D Printing, vacuum casting, soft tooling, injection moulding etc</p><p>Our
+    technology changes as per the number of parts demanded by the client.</p>"
 
 ---
 foo bar

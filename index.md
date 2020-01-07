@@ -3,6 +3,9 @@ layout: blocks
 title: '3D Printing Services in Delhi | 3D Paradise '
 date: 2020-01-07 11:32:00 +0000
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/logo3.png"

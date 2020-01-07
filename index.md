@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: 'Best 3D Printing Services in Delhi | 3D Paradise '
+title: '3D Printing Services in Delhi | 3D Paradise '
 date: 2020-01-07 11:32:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -74,6 +74,28 @@ page_sections:
   block: cta-bar
   content: "<strong>Send us your designs.</strong>"
   email_recipient: hello@paradise-3d.com
+- template: detail-content
+  block: text-1
+  headline: Prototype - Functional Parts - Production
+  content: "<p>for design validation, sales pitches, exhibition presentation, investor/client
+    communication we manufacture 3dp parts taking the surface finish as our top priority,
+    other parameters like accuracy, drop proof strength are always maintained in any
+    process.</p><p>functional parts are parts that are used not for only representation
+    purposes but also for final products.</p><p>things we consider when we manufacture
+    for functional use:</p><p>1. chemical resistant.</p><p>2. operating temperature.</p><p>3.
+    optimum surface finish to minimize friction.</p><p>4. </p><p>from all of the above
+    parameters some maybe applicable to our client's requirement.</p><p>for instance;
+    xyz company manufactures electronic enclosures</p><p>the company has a number
+    of different sizes of pcb and thus different designs for each of them.</p><p>We
+    take care of that part by providing our experienced designers to brainstorm the
+    perfect design for each of them.</p><p>operating conditions for xyz is 90°C heat
+    resistant and smooth surface finish as they want to sell this as their product.</p><p>after
+    design is approved we make one prototype of each design, after prototype of the
+    company is approved we will go aheaf with batch manufacturing that can vary from
+    1-1000 parts per batch as per the company demands.</p><p>Our on demand manufacturing
+    process is smooth for any client.</p><p>we use different technologies like 3Dp,
+    vacuum casting, soft tooling injection moulding etc</p><p>our technology changes
+    as per the quantity of parts demanded by the client</p>"
 
 ---
 foo bar

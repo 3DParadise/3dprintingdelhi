@@ -61,19 +61,6 @@ page_sections:
   block: media-1
   image: "/uploads/theme.jpg"
   caption: Who we serve
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2019/12/28/logo1.png"
-  col_2: <strong>CONTACT US:<br>+91 8861925181<br>+91 8800161994<br><br></strong><a
-    href="https://paradise-3d.com" title="3D Paradise"><strong>https://paradise-3d.com</strong></a>
-  col_3: "<strong>Email us:<br>hello@paradise-3d.com</strong>  "
-  col_4: <strong>Visit us:<br></strong><a href="https://paradise-3d.com" title="https://paradise-3d.com"><strong>https://paradise-3d.com</strong></a>  <br><span
-    class="LrzXr">G-17, near MCD Toll, Surajkund Road, <br>Pul Pehlad Pur, New Delhi,
-    </span>110044
-- template: signup-bar
-  block: cta-bar
-  content: "<strong>Send us your designs.</strong>"
-  email_recipient: hello@paradise-3d.com
 - template: detail-content
   block: text-1
   headline: Prototype - Functional Parts - Production
@@ -96,6 +83,19 @@ page_sections:
     manufacturing process is smooth for any client.</p><p>We use different technologies
     like 3D Printing, vacuum casting, soft tooling, injection moulding etc</p><p>Our
     technology changes as per the number of parts demanded by the client.</p>"
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2019/12/28/logo1.png"
+  col_2: <strong>CONTACT US:<br>+91 8861925181<br>+91 8800161994<br><br></strong><a
+    href="https://paradise-3d.com" title="3D Paradise"><strong>https://paradise-3d.com</strong></a>
+  col_3: "<strong>Email us:<br>hello@paradise-3d.com</strong>  "
+  col_4: <strong>Visit us:<br></strong><a href="https://paradise-3d.com" title="https://paradise-3d.com"><strong>https://paradise-3d.com</strong></a>  <br><span
+    class="LrzXr">G-17, near MCD Toll, Surajkund Road, <br>Pul Pehlad Pur, New Delhi,
+    </span>110044
+- template: signup-bar
+  block: cta-bar
+  content: "<strong>Send us your designs.</strong>"
+  email_recipient: hello@paradise-3d.com
 
 ---
 foo bar

@@ -34,12 +34,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 'Why 3D paradise:'
-  content: Having served more than 300 companies we have gained the industrial experience
-    that is necessarily required for world-class outputs. from MNCs to startups we
-    have helped these companies generate more revenue by taking care of the design,
-    prototypes and production as well. Our wide range of materials free our designers
-    of any worries of manufacturing.our pledge is to provide our clients with world-class
-    products and we aspire to attain 100% customer satisfaction.
+  content: Having served more than 300 companies, We have gained the industrial experience
+    that is necessarily required for world-class outputs. From MNCs to startups, We
+    have helped companies generate more revenue by taking care of the design, prototypes
+    and production of their products. Our wide range of materials and technologies
+    free our designers of any worries about manufacturing. Our pledge is to provide
+    our clients with world-class products and We aspire to attain 100% customer satisfaction.
 - template: content-feature
   block: feature-1
   media_alignment: Left

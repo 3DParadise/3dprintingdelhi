@@ -33,8 +33,13 @@ page_sections:
   background_image: ''
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  content: ''
+  headline: 'Why 3D paradise:'
+  content: Having served more than 300 companies we have gained the industrial experience
+    that is necessarily required for world-class outputs. from MNCs to startups we
+    have helped these companies generate more revenue by taking care of the design,
+    prototypes and production as well. Our wide range of materials free our designers
+    of any worries of manufacturing.our pledge is to provide our clients with world-class
+    products and we aspire to attain 100% customer satisfaction.
 - template: content-feature
   block: feature-1
   media_alignment: Left

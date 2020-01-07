@@ -31,6 +31,10 @@ page_sections:
     image: "/uploads/willspumps-1.jpg"
     alt_text: Product Shot
   background_image: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
